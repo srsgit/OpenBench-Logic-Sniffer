@@ -1,5 +1,4 @@
 # OpenBench-Logic-Sniffer
-OLS Logic Analyser case
 
 Openbench Logic Sniffer case
 
